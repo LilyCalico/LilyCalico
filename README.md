@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 - 💻 I’m currently learning ... Node.js / Swift  
-- 💬 Language ... English / Japanese  
 - ⚡ Hobbies: ... Video games 🎮 / Nap with my cat 🐈 / Reading 📖 / A mom of Tamagocchi 🥚  
 
 ## Languages and Tools:
