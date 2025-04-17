@@ -1,5 +1,3 @@
-![Profile Image](https://github.com/user-attachments/assets/6d8679c7-a229-41f4-8433-50d178cb5d79)
-
 ## Hi there 👋
 - 💻 I’m currently learning ... Node.js / Swift  
 - ⚡ Hobbies: ... Video games 🎮 / Nap with my cat 🐈 / Reading 📖 / A mom of Tamagocchi 🥚  
