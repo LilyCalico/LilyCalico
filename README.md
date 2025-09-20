@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 💻 I’m currently learning ... Node.js / Swift  
-- ⚡ Hobbies: ... Video games 🎮 / Nap with my cat 🐈 / Reading 📖 / A mom of Tamagocchi 🥚  
+- 💻 I’m currently learning ... Node.js
+- ⚡ Hobbies: ... Traveling 🇸🇪🇳🇴🇩🇰🇰🇷🇹🇼🇬🇧🇨🇦🇦🇺🇺🇸🇩🇪 / Video games 🎮 / Nap with my cat 🐈 / Reading 📖
 
 ## Languages and Tools:
 <p align="left">
